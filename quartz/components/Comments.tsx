@@ -1,44 +1,35 @@
-import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
-import { classNames } from "../util/lang"
-// @ts-ignore
-import script from "./scripts/comments.inline"
+import { QuartzComponentConstructor, QuartzComponentProps } from "./types"
 
-type Options = {
-  provider: "giscus"
-  options: {
-    repo: `${string}/${string}`
-    repoId: string
-    category: string
-    categoryId: string
-    mapping?: "url" | "title" | "og:title" | "specific" | "number" | "pathname"
-    strict?: boolean
-    reactionsEnabled?: boolean
-    inputPosition?: "top" | "bottom"
-  }
+interface GraphCommentOptions {
+  graphcommentId: string
 }
 
-function boolToStringBool(b: boolean): string {
-  return b ? "1" : "0"
+interface CommentsOptions {
+  provider: "graphcomment"
+  options: GraphCommentOptions
 }
 
-export default ((opts: Options) => {
-  const Comments: QuartzComponent = ({ displayClass, cfg }: QuartzComponentProps) => {
-    return (
-      <div
-        class={classNames(displayClass, "giscus")}
-        data-repo={opts.options.repo}
-        data-repo-id={opts.options.repoId}
-        data-category={opts.options.category}
-        data-category-id={opts.options.categoryId}
-        data-mapping={opts.options.mapping ?? "url"}
-        data-strict={boolToStringBool(opts.options.strict ?? true)}
-        data-reactions-enabled={boolToStringBool(opts.options.reactionsEnabled ?? true)}
-        data-input-position={opts.options.inputPosition ?? "bottom"}
-      ></div>
-    )
+export default ((opts: CommentsOptions) => {
+  function Comments({ displayClass }: QuartzComponentProps) {
+    return <div id="graphcomment" className={`${displayClass ?? ""} graphcomment`}></div>
   }
 
-  Comments.afterDOMLoaded = script
+  Comments.afterDOMLoaded = () => {
+    const script = document.createElement("script")
+    script.type = "text/javascript"
+    script.innerHTML = `
+      window.gc_params = {
+        graphcomment_id: "${opts.options.graphcommentId}",
+        // Vous pouvez ajouter d'autres options ici si nécessaire
+      };
+      (function() {
+        var gc = document.createElement('script'); gc.type = 'text/javascript'; gc.async = true;
+        gc.src = 'https://graphcomment.com/js/integration.js?' + Math.round(Math.random() * 1e8);
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(gc);
+      })();
+    `
+    document.body.appendChild(script)
+  }
 
   return Comments
-}) satisfies QuartzComponentConstructor<Options>
+}) satisfies QuartzComponentConstructor

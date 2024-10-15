@@ -87,6 +87,12 @@ const config: QuartzConfig = {
       Plugin.Assets(),
       Plugin.Static(),
       Plugin.NotFoundPage(),
+      // Comments({
+      //   provider: "graphcomment",
+      //   options: {
+      //     graphcommentId: "OverthinkingOutLoud-",
+      //   },
+      // }),
     ],
   },
 }
