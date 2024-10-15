@@ -4,7 +4,8 @@ dateCreated: 2024-10-15
 title: Théorie du chaos
 description: Branche des mathématique qui étudie les systèmes déterministes sensibles aux conditions initiales.
 type: 
-tags: 
+tags:
+  - mathématiques
 aliases:
   - Chaos Theory
 ---
