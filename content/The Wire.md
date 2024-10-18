@@ -13,6 +13,9 @@ aliases:
 
 The Wire est une série de 5 saisons publiée sur HBO à partir de 2002, et créée par l'écrivain David Simon. 
 
+![[DavidSIMMON.png|400]]
+> **David SIMON** : écrivain, journaliste et scénariste à l'origine de **The Wire
+
 Elle se déroule à Baltimore à la fin des années 90, et met en scène le quotidien de nombreux personnages ; les gangsters, flics, dockers, journalistes, politiciens, profs et éducateurs. Tout ça est fait de manière neutre, à la limite du documentaire, et la série est célèbre pour son réalisme poussé à l'extrème.  
 
 En effet, elle ne va jamais chercher le spectaculaire ou à créer du drame artificiellement, parce que le quotidien de ses personnages est suffisamment dramatique en soit, sans qu'il soit nécessaire d'en rajouter. 
@@ -25,3 +28,4 @@ Ajoutons à ce descriptif des personnages mémorables ! Omar Little, joué par l
 
 ![Omar Little](https://image.tmdb.org/t/p/original/xSyHV6sOgGastz8CSiPGh9o3oVp.jpg)
 > "Omar coming! Omar coming!"
+

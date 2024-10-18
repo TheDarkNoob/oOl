@@ -36,6 +36,7 @@ Ce site est top et leurs réponses à la fois droles et précises. Ce n'est pas 
 > [!Links] FAQ BTTF
 > https://www.backtothefuture.com/movies/faq
 
+---
 ## Liste des films de la saga
 ### Back to the Future I
 ![BTTF-Poster|500](https://image.tmdb.org/t/p/original/ISc1lVV5SJxodTwg645777E7Hi.jpg)
@@ -43,6 +44,49 @@ Ce site est top et leurs réponses à la fois droles et précises. Ce n'est pas 
 | Année | Réalisateur     | Genres                             | Durée | Casting                                             |
 | ----- | --------------- | ---------------------------------- | ----- | --------------------------------------------------- |
 | 1985  | Robert Zemeckis | Comédie, Aventure, Science-Fiction | 1h56  | Michael J. Fox, Christopher Lloyd, Thomas F. Wilson |
+#### Avis
+Un classique du cinéma quasiment indémodable, que j'ai vu des dizaines de fois sans m'en lasser !
+
+Que dire sur ce film qui n'a pas déjà été dit ? L'histoire est prenante, c'est drôle, ça fait réfléchir, les acteurs ont une énergie incroyable. 
+
+Comme beaucoup de films de cette époque, c'est devenu une référence d'un temps qui n'existe plus, avec ses walkmans et téléphones filaires. Mais celui-ci traitant justement des années 50 avec le regard des années 80, ça donne un cocktail unique de références aujourd'hui, tout en étant une expérience que des enfants de 2024 sont capables d'apprécier. 
+
+Bien-sûr tout n'est pas parfait !
+
+On peut grimacer devant le message du film en filigrane, qui mets en opposition le George McFly "serpillière" avec le George "winner" et dominant qu'il deviendra suite à l'intervention de Marty, entrainant toute la famille vers un espèce de cliché de la réussite sociale américaine. 
+
+Mais ce n'est qu'un détail dans un film à l'humour potache et familiale comme en a le secret Zemeckis, et le fait que le récit ne se prenne pas au sérieux rends des scènes qui auraient pu être ridicules (la visite de l'extraterrestre à George par exemple) juste amusantes et anecdotiques. 
+
+#### Thèmes 
+Le voyage temporel, la famille, les conséquences de ses choix. 
+
+#### Synopsis
+
+Marty McFly aide son ami "Doc" Brown qui viens d'inventer une machine à voyager dans le temps. Mais l'expérience tourne mal et Marty se retrouve 30 ans dans le passé, puis interfère malencontreusement dans ce qui devait être la rencontre de ses parents. 
+
+Il va devoir faire en sorte que ses parents tombent amoureux l'un de l'autre, et trouver un moyen de rentrer dans son époque. 
+
+#### Scène(s) marquante(s)
+
+##### La rencontre entre Marty et Georges chez Lou's
+
+![[BTTF13.png]]
+> Hey McFly !
+
+![[BTTF11.png]]
+> Mon père est un paillasson
+
+##### La rencontre entre Marty et Laurene 
+
+![[BTTF1.png]]
+> Génance maximum
+
+##### Le retour vers le futur
+
+![[BTTF12.png]]
+> N'essayez pas de faire ça à la maison 
+
+---
 ### Back to the Future II
 
 ![BTTF II|500](https://image.tmdb.org/t/p/original/vpVEO0dvZNoBmpdRlGTr9rKo8e.jpg)
