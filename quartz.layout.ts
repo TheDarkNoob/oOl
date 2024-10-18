@@ -10,7 +10,7 @@ export const sharedPageComponents: SharedLayout = {
       provider: 'giscus',
       options: {
         // from data-repo
-        repo: 'thrdarknoob/oOl/quartz',
+        repo: 'thrdarknoob/oOl',
         // from data-repo-id
         repoId: 'R_kgDONAh4dg',
         // from data-category
