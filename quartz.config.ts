@@ -1,5 +1,6 @@
 import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
+import { Comments } from "./quartz/components/Comments"
 
 /**
  * Quartz 4.0 Configuration
@@ -87,12 +88,6 @@ const config: QuartzConfig = {
       Plugin.Assets(),
       Plugin.Static(),
       Plugin.NotFoundPage(),
-      // Comments({
-      //   provider: "graphcomment",
-      //   options: {
-      //     graphcommentId: "OverthinkingOutLoud-",
-      //   },
-      // }),
     ],
   },
 }
