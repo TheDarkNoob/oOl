@@ -33,12 +33,14 @@ Une saga démarrée en 1979 avec le premier film réalisé par Ridley Scott, et 
 | Année | Réalisateur  | Genres                              | Durée | Casting                                   |
 | ----- | ------------ | ----------------------------------- | ----- | ----------------------------------------- |
 | 1979  | Ridley SCOTT | Cyberpunk, Horreur, Science-Fiction | 1h57  | Sigourney WEAVER, Tom SKERRITT, John HURT |
-Le film qui a tout démarré. Un véritable ovni pour l'époque : le premier à mêler des genres jusqu'alors assez compartimentés dans le cinéma : film de monstre, science-fiction, cyberpunk. 
+
+Le film qui a tout démarré. Un véritable ovni pour l'époque : le premier à mêler des genres jusqu'alors assez compartimentés dans le cinéma : film de monstre, science-fiction, *cyberpunk*. 
 
 Le film adopte un angle réaliste et proche de ses personnages, prends son temps pour dévoiler son intrigue, et marque par des scènes mythiques, comme celle du *chestburster*, qui même 45 ans plus tard est d'une efficacité redoutable et crée toujours un profond malaise au visionnage. 
 ### Aliens (1986)
 
 ![Aliens (1986)](https://image.tmdb.org/t/p/original/lojTTppfahX9kQSPjo1jtG53SfU.jpg)
+
 
 Radicalement différent de son prédécesseur, la version de Cameron reprends tous les éléments introduits par le premier film, étends son univers, et crée une suite sur-vitaminée remplie de scènes devenues cultes. 
 
@@ -53,6 +55,7 @@ Radicalement différent de son prédécesseur, la version de Cameron reprends to
 | Année | Réalisateur   | Genres                           | Durée     | Casting                                            |
 | ----- | ------------- | -------------------------------- | --------- | -------------------------------------------------- |
 | 1992  | David FINCHER | Action, Horreur, Science-Fiction | 2h25 (AC) | Sigourney WEAVER, Charles S. DUTTON, Charles DANCE |
+`
 Une fois de plus, Alien 3 ne ressemble à ses prédécesseurs sur aucun point. Tout est sombre et nihiliste dans ce film, qui commence de manière brutale avec la mort de Newt et de Hicks. 
 
 Ici, on est avec la lie de l'humanité, dans un complexe glauque à souhait, sans arme, sans rien qui fonctionne correctement. Et les protagonistes doivent faire face au plus agile des xénomorphes, se déplacant comme un insecte sur les parois et les plafonds de la prison. 
@@ -70,6 +73,7 @@ Beaucoup de critiques ont été adressées à ce film. Enfer de production, symb
 | Année | Réalisateur        | Genres                                   | Durée     | Casting                                     |
 | ----- | ------------------ | ---------------------------------------- | --------- | ------------------------------------------- |
 | 1997  | Jean-Pierre JEUNET | Action, Horreur, Humour, Science-Fiction | 2h34 (DC) | Sigourney WEAVER, Winona RIDER, Ron PERLMAN |
+
 Encore un film de la saga qui ne ressemble absolument pas aux trois précédents. Ce film n'aurait jamais du exister quand on y pense, ce qui le rend d'autant plus incroyable.
 
 Et on doit ce petit miracle à la créativité complètement barée de Jean-Pierre JEUNET, ainsi qu'à l'obstination de Sigourney WEAVER à vouloir lui laisser carte blanche pour le film. 
@@ -93,6 +97,7 @@ Pourtant, ce film a un cachet unique, quelques scènes d'action mémorables, et 
 | Année | Réalisateur      | Genres                           | Durée          | Casting                      |
 | ----- | ---------------- | -------------------------------- | -------------- | ---------------------------- |
 | 2004  | Paul WS ANDERSON | Action, Horreur, Science-Fiction | 1h48 (unrated) | Sanaa LATHAN, Lance ENRIKSEN |
+
 Comme tous les films de Paul WS ANDERSON (Event Horizon, Resident Evil), il ne faut pas s'attendre à un grand moment de cinéma, mais si on le regarde pour le film d'action de "geek" qu'il est, on en a pour son argent. 
 
 La version *unrated* est celle à voir, parce qu'un film incluant des Aliens et des Predators avec un classement d'age, c'est très con comme concept. 
@@ -103,6 +108,7 @@ La version *unrated* est celle à voir, parce qu'un film incluant des Aliens et 
 | Année | Réalisateur          | Genres                           | Durée | Casting |
 | ----- | -------------------- | -------------------------------- | ----- | ------- |
 | 2007  | Greg & Colin STRAUSE | Action, Horreur, Science-Fiction | 1h34  | Non     |
+
 Second crossover des univers d'Alien et de Predator, AVPR est souvent le film le moins apprécié des deux franchises confondues. Et par bien des aspects, cette réputation est méritée. 
 
 Le film est très sombre, les acteurs sont oubliables, et la narration est un modèle du genre de la série B, voire Z. 
@@ -133,6 +139,7 @@ Car Prometheus est très paradoxal : il est à la fois sublime dans sa photograp
 | Année | Réalisateur  | Genres                           | Durée | Casting                                               |
 | ----- | ------------ | -------------------------------- | ----- | ----------------------------------------------------- |
 | 2017  | Ridley SCOTT | Action, Horreur, Science-Fiction | 2h02  | Micheal FASSBENDER, Catherine WATERSTON, Billy CRUDUP |
+
 Suite aux critiques et déceptions engendrées par Prometheus, la communication est claire : on a écouté les fans, il y aura bien des aliens dans ce film comme le suggère le titre, et des réponses seront apportées, à la fois aux questions de base auxquelles ce cycle *origin story* était déjà censé répondre, mais aussi aux nouvelles questions soulevées par le précédent film. 
 
 Et une fois encore, Ridley SCOTT répond en grande partie à côté ! À ce stade, ça ne peut bien sûr plus être involontaire. Là on est clairement dans l'attitude du réalisateur qui dit à peu près la chose suivante : 
