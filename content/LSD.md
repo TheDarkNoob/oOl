@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 dateCreated: 2024-11-13
 title: LSD
 description: Molécule synthétique stimulante et hallucinogène produite à partir de l'ergot de seigle.
