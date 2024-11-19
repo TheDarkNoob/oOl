@@ -16,7 +16,7 @@ aliases:
 
 Le **Big Bang** est la théorie qui fait consensus dans l'astrophysique pour décrire la création et l'expansion actuelle de l'[[Univers]]. 
 
-Il s'agit d'un événement qui aurait eu lieu il y a 13,8 milliards d'années. L'univers était alors extrêmement chaud et dense, et contenait déjà tous les éléments qui le composent aujourd'hui. 
+Il s'agit d'un événement qui aurait eu lieu il y a 13,8 milliards d'années. L'univers était alors extrêmement chaud et dense, et contenai[]()t déjà tous les éléments qui le composent aujourd'hui. 
 
 Comme pour les [[Trou noir|trous noirs]], l'univers était alors une [[Singularité|singularité]]. Sa taille tendait alors vers l'infiniment petit, et sa masse vers l'infini. Il n'existe aucune preuve de ce qui aurait pu se produire dans les premier 380 000 ans après cet événement, mais ensuite la théorie se vérifie à l'aide du [[Fond diffus cosmologique]]. 
 
